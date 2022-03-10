@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoI8njByy0Sy7LyQNvLl9huwqhJO4gZ9X7RJfevY7/KGMFOzto2ZhR7CHbqJaOSEdPcwVJN2vcTypt/P7jHpNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enrica\\Desktop\\EsercitazioneWeek2\\EsercitazioneWeek2\\EsercitazioneWeek2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enrica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
